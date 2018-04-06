@@ -1,0 +1,3 @@
+[submodule "delft"]
+	path = delft
+	url = git@github.com:madmaxms/iconpack-delft.git
