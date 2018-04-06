@@ -3,3 +3,4 @@ if ! [[ -d ~/.icons ]]; then
 mkdir ~/.icons
 fi
 cp -R delft/Delft-Purple-Darkest ~/.icons
+cp -R delft/Delft-Purple-Dark ~/.icons
