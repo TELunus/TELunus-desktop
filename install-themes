@@ -1,0 +1,5 @@
+#!zsh
+if ![[ -d ~/.icons ]]; then
+mkdir ~/.icons
+fi
+cp -R delf/Delft-Purple-Darkest ~/.icons
