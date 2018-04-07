@@ -5,3 +5,4 @@ fi
 cp -R delft/Delft-Purple-Darkest ~/.icons
 cp -R delft/Delft-Purple-Dark ~/.icons
 cp -R delft/Delft-Purple ~/.icons
+cp -R delft/Delft
